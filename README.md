@@ -16,8 +16,6 @@ A beautiful and feature-rich task management application built with Flutter.
 
 ## 🎨 Screenshots
 
-[Add screenshots here]
-
 ## 🛠️ Technologies Used
 
 - **Flutter** - UI Framework
